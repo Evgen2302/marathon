@@ -24,7 +24,7 @@ body {
 .slide{ 
   height: 80vh;
   border-radius: 15px;
-  margin: -10px;
+  margin: 10px;
   cursor: pointer;
   color: rgb(188, 30, 30);
   flex: 1;
